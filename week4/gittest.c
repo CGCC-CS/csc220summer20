@@ -1,3 +1,4 @@
+/* This is a C file used to demonstrate git */
 #include<stdio.h>
 
 int add(int a, int b) {
